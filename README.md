@@ -7,15 +7,11 @@ Este é um projeto simples em JavaScript que detecta a tecla pressionada no tecl
 - Detecta qualquer tecla pressionada no teclado.
 - Exibe o código e o nome da tecla.
 - Destaque estilizado da tecla pressionada com uma borda vermelha.
-- Mostra a tecla "Espaço" como "space" no lugar do código de espaço.
 
-## Demonstração em Vídeo
+## Demonstração em GIF
 
-Aqui está a demonstração em vídeo:
+<img src="./pressKey.gif" alt="Demonstração" width="500">
 
-<video width="600" controls>
-  <source src="pressKey.mp4" type="video/mp4">
-</video>
 
 
 ## Tecnologias Utilizadas
@@ -23,9 +19,6 @@ Aqui está a demonstração em vídeo:
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilos para a página e o destaque das teclas.
 - **JavaScript**: Lógica para detectar e exibir o código e o nome da tecla.
-
-
-
 
 
 ## Como Executar o Projeto
